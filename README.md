@@ -1,8 +1,8 @@
-# MIOMAP and FAUNMAP legacy repository
+# MIOMAP, FAUNMAP, and NEOMAP legacy repository
 
-
-![alt text](miomaplogotiny.gif "Miomap logo")
-
+![alt text](miomap.jpg "Miomap logo")
+![alt text](faunmap.jpg "Faunmap logo")
+![alt text](neomap.jpg "Neomap logo")
 
 This site contains a downloadable file for all of MIOMAP and FAUNMAP (see all_miomap.txt).  These two projects together compose the NEOMAP project.  
 A berkeleymapper link with all data is below:
